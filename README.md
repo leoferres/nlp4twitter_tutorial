@@ -43,7 +43,7 @@ the repository in the days before the tutorial, however, so cloning the
 repository is a much better option.
 
 ## Notebook Listing
-You can [view the tutorial materials](http://nbviewer.ipython.org/github/jakevdp/sklearn_tutorial/blob/master/notebooks/Index.ipynb) using the excellent nbviewer service.
+You can [view the tutorial materials](http://nbviewer.ipython.org/github/leoferres/nlp4twitter_tutorial/blob/master/notebooks/00-bibs.ipynb) using the excellent nbviewer service.
 
 Note, however, that you cannot modify or run the contents within nbviewer.
 To modify them, first download the tutorial repository, change to the notebooks directory, and run ``ipython notebook``.
