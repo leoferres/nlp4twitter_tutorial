@@ -1,5 +1,7 @@
 # nlp4twitter_tutorial
 
+[![Join the chat at https://gitter.im/leoferres/nlp4twitter_tutorial](https://badges.gitter.im/leoferres/nlp4twitter_tutorial.svg)](https://gitter.im/leoferres/nlp4twitter_tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 *Leo Ferres*
 
 - email: <lferres@udd.cl>
